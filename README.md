@@ -1,9 +1,13 @@
 # Prerequisites
 pandas installation  
-```pip install pandas```  
+```
+pip install pandas
+```  
   
 matplotlib installation  
-```pip install matplotlib```  
+```
+pip install matplotlib
+```  
   
 # steps
 1. run the code
